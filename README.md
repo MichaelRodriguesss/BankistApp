@@ -15,3 +15,7 @@
 - Login: jd / password: 2222
 - Login: jd / password: 3333
 - Login: js / password: 4444
+
+<h1 align="center">
+  <img src="ezgif.com-gif-maker.gif" />
+  </h1>
